@@ -84,6 +84,14 @@ class MyApp extends StatelessWidget {
 }
 ```
 
+## Country Model
+
+```dart
+
+const Country country =  Country(dialCode: '+95',name: 'Myanmar',flag: '🇲🇲');
+
+```
+
 ## Contact Us
 
 [Starlight Studio](https://www.facebook.com/starlightstudio.of/)
