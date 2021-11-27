@@ -18,7 +18,7 @@ starlight_country_picker is a country picker.
 ## Features
 
 ☑️ Add New Country <br>
-☑️ Search Your Country
+☑️ Search Your Country <br>
 ⭐ Our package was not use setState ❤️
 
 
